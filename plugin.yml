@@ -1,0 +1,7 @@
+name: CustomCombatLogger
+main: CustomCBL\Main
+api: [3.0.0, 4.0.0]
+version: 1.0.0
+description: Custom CBL for servers so they don't get away.
+
+author: Zolpha#0001
